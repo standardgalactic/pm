@@ -1,13 +1,21 @@
+# Vectorspace Explorer
+
+![](linguistic-terms.png)
+
+[Word2Vec Visualizer](https://standardgalactic.github.io/vectorspace/#/galaxy/word2vec-wiki?cx=-2195&cy=-7979&cz=-1512&lx=-0.1170&ly=-0.3342&lz=0.3770&lw=0.8558&ml=300&s=1.75&l=1&v=d50_clean)
+
 # Software Galaxies
 
-This repository combines visualizations of major software package managers.
+This repository contains visualizations of major software package managers.
 
-All visualizations are available here: http://anvaka.github.io/pm/#/
+All visualizations are available here: http://standardgalactic.github.io/vectorspace
 
-Please read [operating manual](https://github.com/anvaka/pm/tree/master/about#software-galaxies-documentation) -
+Please read the [operating manual](https://github.com/standardgalactic/vectorspace/tree/core/about#software-galaxies-documentation) -
 it is short and describes basic navigation principles.
 
-Repository was create for my talk at [CascadiaJS 2015](http://2015.cascadiajs.com/browser/)
+# Source
+
+Repository was created for Anvaka's talk at [CascadiaJS 2015](http://2015.cascadiajs.com/browser/)
 
 **After conference update** - [**video**](https://www.youtube.com/watch?v=vZ6Yhlxv7Os) -
 [slides](http://anvaka.github.io/talks/cascadia2015/#/)
@@ -159,7 +167,7 @@ of [galactic-data](https://github.com/anvaka/galactic-data).
 
 ```
 git clone https://github.com/anvaka/pm
-cd pm
+cd pm/src
 npm i
 npm start
 ```
